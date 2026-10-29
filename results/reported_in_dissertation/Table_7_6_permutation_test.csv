@@ -1,0 +1,7 @@
+metric,value
+real_label_balanced_accuracy,0.8550
+shuffled_label_balanced_accuracy_mean,0.4979
+shuffled_label_balanced_accuracy_std,0.0644
+shuffled_label_balanced_accuracy_min,0.3833
+shuffled_label_balanced_accuracy_max,0.6900
+permutation_p_value,0.0099

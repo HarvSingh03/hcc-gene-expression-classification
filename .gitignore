@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local datasets
+data/*
+!data/README.md
+
+# Intermediate and generated outputs
+outputs/*
+!outputs/README.md

@@ -1,0 +1,4 @@
+model,k,accuracy,balanced_accuracy,recall,specificity,precision,f1
+Random Forest,10,0.8681,0.8299,0.7490,0.9108,0.7693,0.7345
+Gaussian Naive Bayes,25,0.8481,0.8293,0.7895,0.8692,0.6947,0.7243
+Elastic Net Logistic Regression,10,0.8518,0.8203,0.7540,0.8867,0.7197,0.7190

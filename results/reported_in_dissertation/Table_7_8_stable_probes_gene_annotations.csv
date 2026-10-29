@@ -1,0 +1,7 @@
+probe,gene_symbol,selection_frequency_out_of_100,fast_growing_mean,remaining_mean,reported_difference,direction
+A_23_P60079,ANGPT2,100,8.6910,6.5470,2.1440,higher_in_fast_growing
+A_24_P932435,ANGPT2,84,4.4770,2.4850,1.9920,higher_in_fast_growing
+A_23_P144843,ESM1,82,6.3070,3.3180,2.9880,higher_in_fast_growing
+A_32_P208136,MMS22L,90,2.9500,1.6020,1.3480,higher_in_fast_growing
+A_23_P49145,ZG16,82,7.4380,10.8700,-3.4320,lower_in_fast_growing
+A_23_P372516,Unclear,97,12.7010,12.1410,0.5590,higher_in_fast_growing

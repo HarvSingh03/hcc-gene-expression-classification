@@ -1,0 +1,6 @@
+measure,count
+total_probes,39613
+probes_selected_at_least_once,233
+probes_selected_at_least_50_percent,19
+probes_selected_at_least_80_percent,6
+probes_selected_every_run,1
