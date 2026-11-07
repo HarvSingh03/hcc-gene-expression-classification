@@ -5,6 +5,20 @@ An MSc Computer Science project investigating whether gene-expression patterns c
 
 The project explores high-dimensional biological data, feature selection, classification algorithms and model evaluation, with an emphasis on identifying potentially informative gene-expression probes.
 
+
+## Project Highlights
+
+- **Technologies:** Python, pandas, NumPy, scikit-learn, SciPy, Matplotlib and Seaborn.
+- **Dataset:** 81 HCC tumour samples with 39,613 gene-expression probes retained after preprocessing.
+- **Machine learning:** Compared Logistic Regression, Elastic Net Logistic Regression, Linear SVM, Gaussian Naive Bayes and Random Forest.
+- **Feature engineering:** Investigated supervised feature selection using SelectKBest and dimensionality reduction using TruncatedSVD.
+- **Evaluation:** Used repeated stratified five-fold cross-validation, focusing on balanced accuracy, ROC AUC and minority-class recall.
+- **Key result:** Random Forest with 10 selected probes achieved a reported mean balanced accuracy of 0.8299 and ROC AUC of 0.9245.
+- **Research outcome:** Explored candidate gene-expression probes associated with faster tumour growth, while acknowledging the need for independent validation.
+
+*Results are from the original MSc dissertation and represent exploratory cross-validation findings, not clinically validated predictions.*
+
+
 ## Project Overview
 
 Hepatocellular carcinoma (HCC) is a common form of primary liver cancer. Tumours can differ in their growth behaviour, making it valuable to investigate biological patterns associated with more aggressive disease.
