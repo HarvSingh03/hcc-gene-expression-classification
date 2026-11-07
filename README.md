@@ -66,6 +66,14 @@ The project examines:
 
 These analyses help describe the dataset and investigate the structure of its high-dimensional feature space.
 
+
+#### PCA Visualisation
+
+![PCA of tumour gene-expression data](plots/extracted_from_dissertation/Figure_5_2_PCA_gene_expression.png)
+
+*Figure: Principal component analysis of tumour gene-expression data. The first two principal components did not show clear separation between fast-growing and remaining tumours.*
+
+
 ### 3. Machine learning
 
 The classification methods investigated include:
@@ -105,6 +113,14 @@ The dissertation reported the following results among the stronger model configu
 | Random Forest | 10 | 0.8299 | 0.9245 |
 | Gaussian Naive Bayes | 25 | 0.8293 | 0.9117 |
 | Elastic Net Logistic Regression | 10 | 0.8203 | 0.9080 |
+
+
+### Model Performance Across Feature Selection Sizes
+
+![Balanced accuracy across selected probe counts](plots/extracted_from_dissertation/Figure_7_1_balanced_accuracy_across_k.png)
+
+*Figure: Balanced accuracy across different numbers of selected gene-expression probes, as reported in the original MSc dissertation.*
+
 
 These are cross-validation results reported in the original dissertation, not results from a new independent validation study.
 
